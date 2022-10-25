@@ -1,0 +1,32 @@
+#gameContainer{
+    text-align: center;
+}
+#gameBoard{
+    border: 3px solid;
+}
+#scoreText{
+    font-family: "Garamond", cursive;    
+    font-size: 100px;
+}
+#resetBtn{
+    font-family: "Garamond", cursive;    
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
+#tabs{
+ 
+    text-align:right;
+    
+
+    font-size: 8px;
+    padding: 5px; 
+}
+.otherTabs{
+    display: inline;
+    padding: 5px; 
+    
+}
